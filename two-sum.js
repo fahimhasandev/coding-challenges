@@ -55,3 +55,6 @@ function findTwoSum(arry, target) {
 }
 
 console.log(findTwoSum([1, 3, 7], 11));
+
+
+// Space & Time Complexity 
